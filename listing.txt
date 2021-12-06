@@ -11,3 +11,17 @@ drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:12 info
 drwxr-xr-x   4 n.bezdolniy  staff  128  6 дек 23:15 logs
 drwxr-xr-x  10 n.bezdolniy  staff  320  6 дек 23:16 objects
 drwxr-xr-x   4 n.bezdolniy  staff  128  6 дек 23:12 refs
+total 0
+drwxr-xr-x  13 n.bezdolniy  staff  416  6 дек 23:18 .
+drwxr-xr-x  12 n.bezdolniy  staff  384  6 дек 23:18 ..
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:16 34
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:16 35
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:15 46
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:15 66
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:18 6b
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:16 89
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:15 8d
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:17 b8
+drwxr-xr-x   3 n.bezdolniy  staff   96  6 дек 23:18 f8
+drwxr-xr-x   2 n.bezdolniy  staff   64  6 дек 23:12 info
+drwxr-xr-x   2 n.bezdolniy  staff   64  6 дек 23:12 pack
