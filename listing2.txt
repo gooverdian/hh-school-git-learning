@@ -1,0 +1,9 @@
+total 24
+drwxr-xr-x    8 n.bezdolniy  staff   256 14 ноя 19:26 .
+drwxr-xr-x  104 n.bezdolniy  staff  3328 27 окт 12:53 ..
+drwxr-xr-x   15 n.bezdolniy  staff   480 14 ноя 19:25 .git
+-rw-r--r--    1 n.bezdolniy  staff    18  6 дек  2021 .gitignore
+drwxr-xr-x    8 n.bezdolniy  staff   256  8 дек  2021 .idea
+-rw-r--r--    1 n.bezdolniy  staff    70  6 дек  2021 README.md
+-rw-r--r--    1 n.bezdolniy  staff  1513 29 ноя  2022 listing.txt
+-rw-r--r--    1 n.bezdolniy  staff     0 14 ноя 19:26 listing2.txt
