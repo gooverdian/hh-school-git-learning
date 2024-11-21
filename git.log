@@ -1,0 +1,43 @@
+commit c35d3903cc33a712f41530382096f1629dd617d8
+Merge: 355f9c3 e29ee82
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:20:08 2021 +0300
+
+    Merge branch 'feature-1'
+
+commit e29ee8224d55b29ad4056bc2e642b6be7c82ab13
+Merge: 3412e40 fd5d4ae
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:19:43 2021 +0300
+
+    Merge branch 'bugfix' into feature-1
+
+commit fd5d4aef427cf65255c4a72efc6c4d8a98ee4081
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:19:09 2021 +0300
+
+    Add idea files to ignore rules
+
+commit 3412e40696d1f4d11dc071f45aa04477216f7d05
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:18:28 2021 +0300
+
+    Add objects to repository listing
+
+commit f802e6f470cde5b56e9188464f3eebd5d0f516c8
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:18:06 2021 +0300
+
+    Add repository listing
+
+commit 355f9c310e679ffbbf6b5a1770915e9ab79f48f7
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:16:48 2021 +0300
+
+    Setup ignore rules
+
+commit 8dff833964eb8e801c192c9eec4bc95d865e9387
+Author: gooverdian <gooverdian@gmail.com>
+Date:   Mon Dec 6 23:15:20 2021 +0300
+
+    Init repo with readme
